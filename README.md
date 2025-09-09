@@ -35,7 +35,7 @@ npm start
 ### GitHub Projeleri
 
 GitHub kullanıcı adınızı değiştirmek için aşağıdaki sabiti güncelleyin:
-```js
+```javascript
 const GITHUB_USERNAME = "metey12";
 ```
 ### Formspree Ayarları
